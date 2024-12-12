@@ -1,6 +1,6 @@
 # examen_12Dic2024
    # EXAMEN FINAL 14-DIC-24 TURNO INTENSIVO
-   # REGULAR INCOMPLETO
+   # REGULAR COMPLETO
    ## TECNICATURA DE DESPACHO // SEGUROS // REC DIGIT // ADMIN // SEG&HIG
    
    ## Plan de Marketing digital tilizando la plataformacon Google Ads.
